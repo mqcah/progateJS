@@ -6,3 +6,4 @@ const character = {
 
 // characterの値を出力してください
 console.log(character);
+g
